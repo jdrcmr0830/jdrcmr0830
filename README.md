@@ -1,10 +1,11 @@
-# ![Jonathan](link_to_your_profile_picture) Hello, I'm [Jonathan](link_to_your_github_profile) 👋
+
+ # <img src="361915915_10230151076509671_4317979536851538415_n.jpg" alt="Jonathan" style="width: 30%; height: 30%;"> Hello, I'm [Jonathan](link_to_your_github_profile) 👋
 ### Software Engineer | [Puerto Rico]
 
 ![Jonathan Rosario](link_to_your_cover_image)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JonathanRosario-0077B5?style=flat-square&logo=linkedin&logoColor=white)](link_to_your_linkedin_profile)
-[![GitHub](https://img.shields.io/badge/GitHub-JDRCMR0830-black?style=flat-square&logo=github&logoColor=white)](link_to_your_github_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JonathanRosario-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonathan-rosario-colón-483826238)
+[![GitHub](https://img.shields.io/badge/GitHub-JDRCMR0830-black?style=flat-square&logo=github&logoColor=white)]([link_to_your_github_profile](https://github.com/jdrcmr0830)
 <!-- Add more social media badges if you want -->
 
 In pursuit of my dreams, I have mastered the art of leading a store, but my true passion lies in the world of software engineering. With a bachelor's degree in Computer Science and a master's in Software Engineering, I am now ready to embark on an exciting new chapter in my career.
