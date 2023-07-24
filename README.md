@@ -1,8 +1,8 @@
 
- # <img src="361915915_10230151076509671_4317979536851538415_n.jpg" alt="Jonathan" style="width: 30%; height: 30%;"> Hello, I'm [Jonathan](link_to_your_github_profile) 👋
+# <img src="pexels-luis-gomes-546819.jpg" alt="Image" height="10%">
+# Hello, I'm [Jonathan](https://github.com/jdrcmr0830) 👋
 ### Software Engineer | [Puerto Rico]
 
-![Jonathan Rosario](link_to_your_cover_image)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JonathanRosario-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonathan-rosario-colón-483826238)
 [![GitHub](https://img.shields.io/badge/GitHub-JDRCMR0830-black?style=flat-square&logo=github&logoColor=white)](https://github.com/jdrcmr0830)
