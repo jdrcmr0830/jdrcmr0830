@@ -1,5 +1,5 @@
 
-# <img src="pexels-luis-gomes-546819.jpg" alt="Image" height="10%">
+# <img src="pexels.jpg" alt="Image" height="10%">
 # Hello, I'm [Jonathan](https://github.com/jdrcmr0830) 👋
 ### Software Engineer | [Puerto Rico]
 
