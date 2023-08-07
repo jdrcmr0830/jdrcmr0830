@@ -18,11 +18,11 @@ With a relentless drive to learn, adapt, and overcome challenges, I am confident
 
 If you seek a passionate software engineer committed to excellence and eager to make a difference, I am ready to take on new challenges and embrace opportunities that align with my vision. Let's connect and work together to shape a brighter future.
 
-## Projects
+<!-- ## Projects
 Some of my notable projects include:
 - [Project 1](link_to_project1_repo) - A brief description of Project 1.
 - [Project 2](link_to_project2_repo) - A brief description of Project 2.
-<!-- Add more projects if you want -->
+ Add more projects if you want -->
 
 ## Contact Me
 Feel free to connect with me on LinkedIn or reach out to me via email at [jdrcmr@gmail.com](mailto:jdrcmr@gmail.com). I'm always open to new opportunities, collaboration, or simply having a chat over a cup of coffee ☕.
