@@ -4,7 +4,7 @@
 ### Software Engineer | [Puerto Rico]
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JonathanRosario-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonathan-rosario-colón-483826238)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JonathanRosario-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rosario-colón-483826238)
 [![GitHub](https://img.shields.io/badge/GitHub-JDRCMR0830-black?style=flat-square&logo=github&logoColor=white)](https://github.com/jdrcmr0830)
 <!-- Add more social media badges if you want -->
 
